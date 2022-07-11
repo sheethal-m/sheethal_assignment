@@ -6,7 +6,8 @@ This should be implemented with an API and database.
 ## Business Requirements
 
 * Should not allow more than one user with the same email address
-* Zip Pay allows credit for up to $1000, so if `monthly salary - monthly expenses` is less than $1000 we should not create an account for the user and return an error
+* Zip Pay allows credit for up to $1000, so if `monthly salary - monthly expenses` 
+* is less than $1000 we should not create an account for the user and return an error
 
 ## Tech Requirements
 
